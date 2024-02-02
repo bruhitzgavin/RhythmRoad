@@ -1,3 +1,5 @@
+![Logo](https://github.com/bruhitzgavin/RhythmRoad/blob/main/data/assets/img/logo.png?raw=true)
+
 # Credits
 
 ## MUSIC
